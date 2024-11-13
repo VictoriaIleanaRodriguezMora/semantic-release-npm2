@@ -2,7 +2,7 @@
   <a href="https://gcba.github.io/Obelisco/?path=/story/comenzar-inicio--instalacion">
     <img src="https://gcba.github.io/Obelisco/logo.svg" alt="Obelisco logo" width="300" />
   </a>
-</p>
+</p> 
 
 <h1 class="text-center">Crea aplicaciones React con velocidad</h1>
 <br />
